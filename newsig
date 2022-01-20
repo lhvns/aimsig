@@ -1,0 +1,9 @@
+<div style="float:left; padding:5px; vertical-align:bottom; color:rgb(0,0,0); width:215px; height:100px; font-family:Helvetica; font-size:11px;">
+
+<div style="font-size:12px;"><b>{Name}</b></div>
+
+<div style="font-size:12px;"><b>{Position}</div>
+
+<div style="font-size:12px;"><b>{Email}</div>
+
+</div>
